@@ -1,0 +1,17 @@
+Capex - Custo relacionado a infraestrutura
+
+Opex - Custo relacionado aos serviços em geral
+
+Modelos de computação em nuvem:
+
+Público (responsabilidade da empresa contratante); Privado (responsabilidade da empresa) e Hibrido (responsabilidade de ambos)
+
+Alta disponibilidade se concentra em garantir a disponibilidade máxima, idependente de interrupções ou eventos que possam acontecer
+
+Escalabilidade - ajustar os recursos pra atender as demandas
+Elasticidade - ajustar os servidores para atender as requisições
+Confiabilidade - Previsibilidade das coisas que podem acontecer
+Previsibilidade - Permite que você avance com confiança, seja no desempenho ou no custo.
+Segurança - Boas práticas dentro do servidor
+Governança - Em como vamos gerir a nuvem
+Gerenciabilidade - Implantar recursos com base em um modelo pré-definido
