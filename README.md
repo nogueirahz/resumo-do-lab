@@ -1,5 +1,7 @@
 # resumo-do-lab
-Este repositóCapex - Custo relacionado a infraestrutura
+Este repositório foi criado para resumos dos conhecimentos adquiridos no curso AZ-900 da DIO
+
+Capex - Custo relacionado a infraestrutura
 
 Opex - Custo relacionado aos serviços em geral
 
